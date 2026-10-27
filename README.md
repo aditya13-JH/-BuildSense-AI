@@ -1,3 +1,7 @@
+<img width="2870" height="1520" alt="image" src="https://github.com/user-attachments/assets/f89b4b15-1517-4ea8-bf53-81dc9a2d98fa" />
+
+
+
 # 🏗️ BuildSense AI – Construction Intelligence Platform
 
 A full-stack web application that uses **Google Gemini AI** to assist construction professionals with safety analysis, crack detection, property valuation, and project planning.
